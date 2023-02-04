@@ -1,5 +1,5 @@
-# BrainF-k-Code-Hidden-Message
-Good luck solving that code !!!
+ BrainF-k-Code-Hidden-Message
+# Good luck solving that code !!!
 
 ```
 ++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>-----------
